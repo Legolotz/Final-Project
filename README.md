@@ -1,5 +1,4 @@
-[![OpenSSF Scorecard]
-(htt‌ps://api.securityscorecards.dev/projects/github.com/Legolotz/Final-Project/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Legolotz/Final-Project)
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Legolotz/Final-Project/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Legolotz/Final-Project)
 
 
 /*
