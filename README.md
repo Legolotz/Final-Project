@@ -12,4 +12,8 @@ Sources:
        Uppercase the input: https://youtu.be/tQWYTU81uAs?si=mtldx4RVCJ7L6FYO
        https://stackoverflow.com/questions/6605282/how-can-i-check-if-a-string-has-special-characters-in-c-effectively
        Editing a File: https://youtu.be/Ka5Rgfxw9JM?si=L2kLNhT12W4as2OQ
+
+       [![OpenSSF Scorecard]
+       (htt‌ps://api.securityscorecards.dev/projects/github.com/Legolotz/Final-Project/badge)]
+       (htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Legolotz/Final-Project)
       */
