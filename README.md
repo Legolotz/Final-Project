@@ -1,5 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Legolotz/Final-Project/badge)](https://scorecard.dev/viewer/?uri=github.com/Legolotz/Final-Project)
-
+[![OpenSSF Best Practices Scorecard](https://api.scorecard.dev/projects/github.com/Legolotz/Final-Project/badge)](https://scorecard.dev/viewer/?uri=github.com/Legolotz/Final-Project)
 
 /*
 Developer: Delfino Jimenez-Vasquez, Laurenz Becker
