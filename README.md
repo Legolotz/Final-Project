@@ -1,6 +1,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Legolotz/Final-Project/badge)](https://scorecard.dev/viewer/?uri=github.com/Legolotz/Final-Project)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10212/badge)](https://www.bestpractices.dev/projects/10212)
 
+
 /*
 Developer: Delfino Jimenez-Vasquez, Laurenz Becker
 Date: March 15, 2024
